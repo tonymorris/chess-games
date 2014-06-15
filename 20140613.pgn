@@ -29,30 +29,30 @@
 12. Bxf3 Nxe5
 13. Be4 Bd6
 14. Qh5 O-O-O
-15. d4 Ng6
-16. Ba3 Nf4
+15. d4 Ng6 {15. g6 is more accurate}
+16. Ba3 {This loses white's centre} Nf4 {16. ... f5 is more accurate}
 17. Qf3 f5
-18. Bxb7+ Qxb7
+18. Bxb7+ {This sacrifice immediately loses with no compensation} Qxb7
 19. Qxb7+ Kxb7
-20. Bxc5 Bxc5
+20. Bxc5 Bxc5 {20. ... Ne2+ wins even more material}
 21. Rxf4 Bb6
 22. Rb1 g5
 23. Rf3 Ka8
-24. Re3 Rhe8
-25. Re5 Rc8
-26. Rbe1 Rxc3
+24. Re3 {24. Kf1 loses less} Rhe8 {24. ... Rxd4!}
+25. Re5 {There is no attack} Rc8 {Rxd4 is still on}
+26. Rbe1 {White's king is in danger} Rxc3 
 27. Rxf5 Bxd4+
-28. Kf1 Rxc2
+28. Kf1 Rxc2 
 29. Rf7 e5
 30. a4 Rb8
-31. a5 Ra2
+31. a5 Ra2 {31. ... Rbb2 is stronger}
 32. a6 Rxa6
 33. g4 Rc6
 34. Rd1 Rc2
 35. Re1 Rbb2
-36. Ra1 Rf2+
+36. Ra1 Rf2+ {36. ... Rxh2 is a forced mate in 7}
 37. Rxf2 Rxf2+
-38. Ke1 Rxh2
+38. Ke1 Rxh2 {38. ... Bxa1 simplifies to a quicker win}
 39. Ra6 Bf2+
 40. Ke2 e4
 41. Rf6 Bd4+
