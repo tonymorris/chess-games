@@ -9,9 +9,9 @@
 [BlackCountry "AUS"]
 [WhiteElo "?"]
 [BlackElo "1280"]
-[ECO "A40"]
-; [Opening "Queen's Pawn: Modern"]
-; [Annotator "Morris, Tony"]
+[ECO "A30"]
+[Opening "English, symmetrical variation"]
+[Annotator "Morris, Tony"]
 [PlyCount "78"]
 [Result "0-1"]
 
