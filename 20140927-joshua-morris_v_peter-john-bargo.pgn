@@ -1,0 +1,36 @@
+[Event "2014 Leo Wilkinson Memorial"]
+[Site "Grace Lutheran College, Brisbane, Australia"]
+[Date "2014.09.27"]
+[Round "02"]
+[TimeControl "3600+10"]
+[White "Morris, Joshua"]
+[Black "Peter-John Bargo"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "?"]
+[BlackElo "1146"]
+[ECO "A04"]
+[Opening "Reti"]
+[Annotator "Morris, Tony"]
+[PlyCount "35"]
+[Result "1-0"]
+
+1. Nf3 b6
+2. g3 Bb7
+3. Bg2 g6
+4. O-O Bg7
+5. d3 d6
+6. e4 Nd7
+7. Nbd2 e5
+8. Nc4 Ngf6
+9. Be3 Rc8
+10. a4 O-O
+11. a5 b5
+12. a6 Bxa6
+13. Rxa6 bxc4
+14. dxc4 Nb6
+15. c5 dxc5
+16. Nxe5 Qxd1
+17. Rxd1 Nfd7
+18. Nxd7
+{Black Resigns} 1-0
