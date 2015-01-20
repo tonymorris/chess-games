@@ -1,0 +1,21 @@
+[Event "Chess Puzzle"]
+[Site "?"]
+[Date "2015.01.20"]
+[Round "?"]
+[White "mate in two"]
+[Black "loses in two"]
+[Result "*"]
+[BlackElo "2000"]
+[Time "19:32:53"]
+[WhiteElo "2000"]
+[TimeControl "3600+10"]
+[SetUp "1"]
+[FEN "4k3/1p2P2p/2N1P1N1/2PpKpP1/3PpP2/4P3/4P3/8 w - - 0 1"]
+[Termination "unterminated"]
+[PlyCount "0"]
+[WhiteType "human"]
+[BlackType "human"]
+[Comment "White to play, mate in two"]
+
+ *
+
