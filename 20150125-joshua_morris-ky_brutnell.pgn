@@ -1,0 +1,74 @@
+[Event "Australia Day Weekend Chess Tournament 2015"]
+[Site "Pacific Lutheran College, Queensland, Australia"]
+[Date "2015.01.25"]
+[Round "05"]
+[TimeControl "3600+30"]
+[White "Morris, Joshua"]
+[Black "Brutnell, Ky"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1298"]
+[BlackElo "875"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[Variation "2.Nf3 d6 3.c3"]
+[TimeControl "3600+30"]
+[Annotator "Morris, Tony"]
+[PlyCount "101"]
+[Result "1/2-1/2"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5
+2. Nf3 d6
+3. c3 Nc6
+4. d4 Bg4
+5. Bc4 Nf6
+6. Qb3 e6
+7. Qxb7 Na5
+8. Bb5+ Nd7
+9. Bxd7+ Ke7
+10. Qa6 Kxd7
+11. dxc5 Bxf3
+12. gxf3 dxc5
+13. Ke2 Qb6
+14. Rd1+ Ke8
+15. Qd3 Rd8
+16. Qxd8+ Qxd8
+17. Rxd8+ Kxd8
+18. b3 Bd6
+19. f4 f6
+20. Be3 Nc6
+21. Na3 g5
+22. fxg5 fxg5
+23. Bxg5+ Kc8
+24. Be3 Bxh2
+25. Bxc5 Be5
+26. Rc1 h5
+27. Bd4 h4
+28. Nb5 Bxd4
+29. Nxd4 Nxd4+
+30. cxd4+ Kd7
+31. f4 h3
+32. Rh1 h2
+33. Kf3 Kc6
+34. a3 Kb5
+35. e5 a5
+36. b4 axb4
+37. axb4 Kxb4
+38. Ke3 Kc4
+39. Ke4 Rh6
+40. Rc1+ Kb5
+41. d5 exd5+
+42. Kxd5 h1=Q+
+43. Rxh1 Rxh1
+44. f5 Rd1+
+45. Ke6 Rf1
+46. f6 Kc5
+47. Ke7 Kd5
+48. e6 Re1
+49. f7 Rxe6+
+50. Kd7 Rd6+
+51. Ke7
+{Draw Agreed} 1/2-1/2
+
