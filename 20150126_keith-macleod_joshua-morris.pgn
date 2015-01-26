@@ -1,0 +1,61 @@
+[Event "Australia Day Weekend Chess Tournament 2015"]
+[Site "Pacific Lutheran College, Queensland, Australia"]
+[Date "2015.01.26"]
+[Round "06"]
+[TimeControl "3600+30"]
+[White "MacLeod, Keith"]
+[Black "Morris, Joshua"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1489"]
+[BlackElo "1298"]
+[ECO "A47"]
+[Opening "Neo-Queen's Indian"]
+[Variation "2..b6 3.Bf4 Bb7 4.e3 e6"]
+[Annotator "Morris, Tony"]
+[PlyCount "80"]
+[Result "0-1"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6
+2. Nf3 e6
+3. Bf4 b6
+4. e3 Bb7
+5. Be2 c5
+6. O-O Be7
+7. h3 cxd4
+8. exd4 d6
+9. Nbd2 Nbd7
+10. Nc4 Qc7
+11. Ne3 O-O
+12. c4 e5
+13. Bh2 Rad8
+14. dxe5 dxe5
+15. Qc2 Bc5
+16. Nf5 Be4
+17. Nh6+ gxh6
+18. Qc1 Bg6
+19. Qxh6 Kh8
+20. Qg5 Rde8
+21. Rad1 Ne4
+22. Qc1 Nxf2
+23. Rxf2 Bxf2+
+24. Kxf2 Nf6
+25. Kf1 Ne4
+26. Qe3 f5
+27. Nh4 Qc6
+28. Rd5 f4
+29. Qc1 Ng3+
+30. Kf2 Be4
+31. Rd2 Qc5+
+32. Ke1 Qe3
+33. Qc3 Qxc3
+34. bxc3 Nxe2
+35. Kxe2 Bxg2
+36. Nxg2 f3+
+37. Kf2 fxg2+
+38. Kxg2 e4
+39. Bg3 Rf3
+40. Rd5 Rg8
+{White Resigns} 0-1
