@@ -12,7 +12,6 @@
 [ECO "B50"]
 [Opening "Sicilian"]
 [Variation "2.Nf3 d6 3.c3"]
-[TimeControl "3600+30"]
 [Annotator "Morris, Tony"]
 [PlyCount "101"]
 [Result "1/2-1/2"]
