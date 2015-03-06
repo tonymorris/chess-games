@@ -1,0 +1,57 @@
+[Event "Flood Gup 2015"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.03.06"]
+[Round "01"]
+[TimeControl "4800+60"]
+[White "Morris, Tony"]
+[Black "Petrie, Nicholas"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1314"]
+[BlackElo "?"]
+[ECO "D50"]
+[Opening "QGD"]
+[Variation "4.Bg5 dxc4"]
+[Annotator "Morris, Tony"]
+[PlyCount "73"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 d5
+2. c4 Nf6
+3. Nc3 e6
+4. Bg5 dxc4
+5. e4 h6
+6. Bh4 g5
+7. Bg3 Bd6
+8. e5 Nd5
+9. exd6 cxd6
+10. Bxc4 Nc6
+11. Bxd5 exd5
+12. Nxd5 Qa5+
+13. Nc3 Qb4
+14. Qe2+ Kf8
+15. Qd2 Nxd4
+16. Rd1 Bf5
+17. Qxd4 Qxd4
+18. Rxd4 Re8+
+19. Nge2 Kg7
+20. O-O Re6
+21. Rxd6 Rhe8
+22. Nd4 Bd3
+23. Nxe6+ fxe6
+24. Re1 Bc4
+25. b3 Ba6
+26. Rexe6 Rxe6
+27. Rxe6 h5
+28. h4 gxh4
+29. Bxh4 Kf7
+30. Re7+ Kg6
+31. Nd5 b5
+32. Re6+ Kf5
+33. Rxa6 Ke5
+34. Ne3 b4
+35. Bg3+ Kd4
+36. Rd6+ Kc3
+37. Be5# 1-0
