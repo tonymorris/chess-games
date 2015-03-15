@@ -1,0 +1,36 @@
+[Event "Flood Gup 2015"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.03.06"]
+[Round "02"]
+[TimeControl "4800+60"]
+[White "Robinson, Andrew"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1675"]
+[BlackElo "1314"]
+[ECO "D11"]
+[Opening "Slav"]
+[Variation "3.Nf3 Bg4"]
+[Annotator "Morris, Tony"]
+[PlyCount "27"]
+[Result "1/2-1/2"]
+[WhiteType "human"]
+[BlackType "human"]
+
+
+1. d4 d5
+2. c4 c6
+3. Nf3 Bg4
+4. e3 e6
+5. Be2 Nf6
+6. Nc3 Nbd7
+7. O-O Bd6
+8. Qc2 Qc7
+9. c5 Be7
+10. b4 b6
+11. Bb2 O-O
+12. h3 Bxf3
+13. Bxf3 e5
+14. g4
+{Draw Agreed} 1/2-1/2
