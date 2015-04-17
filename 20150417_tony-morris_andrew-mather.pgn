@@ -1,0 +1,51 @@
+[Event "Flood Cup 2015"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.03.17"]
+[Round "04"]
+[TimeControl "4800+60"]
+[White "Mather, Andrew"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1796"]
+[BlackElo "1314"]
+[ECO "D36"]
+[Opening "QGD"]
+[Variation "Exchange, Main Line, 9.Nf3 Re8 10.O-O h6"]
+[Annotator "Morris, Tony"]
+[PlyCount "57"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 d5
+2. c4 e6
+3. Nc3 Nf6
+4. cxd5 exd5
+5. Bg5 c6
+6. Qc2 Be7
+7. e3 O-O
+8. Bd3 h6
+9. Bh4 Nbd7
+10. Nf3 Re8
+11. O-O Nf8
+12. Rab1 a5
+13. a3 b5
+14. Ne5 Bb7
+15. Ne2 Rc8
+16. Bf5 Rc7
+17. Bg3 Bd6
+18. Nd3 g6
+19. Bh3 Ne4
+20. Bxd6 Qxd6
+21. Rbc1 Ne6
+22. Bxe6 Rxe6
+23. Nc3 Ba6
+24. Nxe4 Rxe4
+25. Nc5 Rh4
+26. g3 Rh5
+27. Nxa6 Qd7
+28. Nxc7 Qh3
+29. f3 
+{Black Resigns} 1-0
+
