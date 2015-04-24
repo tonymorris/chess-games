@@ -1,0 +1,62 @@
+[Event "Flood Cup 2015"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.04.24"]
+[Round "05"]
+[TimeControl "4800+60"]
+[White "Morris, Tony"]
+[Black "Adams, Ray"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1314"]
+[BlackElo "1414"]
+[ECO "E20"]
+[Opening "Nimzo-Indian"]
+[Variation "4.Bd2"]
+[Annotator "Morris, Tony"]
+[PlyCount "81"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 e6
+2. c4 Nf6
+3. Nc3 Bb4
+4. Bd2 b6
+5. a3 Bxc3
+6. Bxc3 Ne4
+7. Qc2 Bb7
+8. Nf3 d6
+9. Rd1 Nd7
+10. e3 Ndf6
+11. Bd3 O-O
+12. O-O Nxc3
+13. Qxc3 Ne4
+14. Qc2 f5
+15. Nd2 Nxd2
+16. Rxd2 Rf6
+17. e4 Rg6
+18. f4 fxe4
+19. Bxe4 Bxe4
+20. Qxe4 Qe8
+21. Re2 c6
+22. d5 cxd5
+23. cxd5 e5
+24. fxe5 dxe5
+25. Qxe5 Qxe5
+26. Rxe5 Rd6
+27. Rd1 Rad8 {Draw offered}
+28. g4 R8d7
+29. g5 g6
+30. Rd2 Kg7
+31. Kf2 h6
+32. h4 h5
+33. Ke3 Rf7
+34. Ke4 Rd8
+35. d6 Rdf8
+36. Kd5 Rd8
+37. Rde2 Kf8
+38. Re6 Rf5+
+39. R2e5 Rxe5+
+40. Kxe5 Kg7
+41. Re7+ 
+{Black Resigns} 1-0
