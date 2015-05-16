@@ -1,0 +1,40 @@
+[Event "Bullwinkle v The Gap"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.05.15"]
+[TimeControl "3600+10"]
+[White "Stawsky, Nik (FM)"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1910"]
+[BlackElo "1314"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra, 3.c3 d3"]
+[Annotator "Morris, Tony"]
+[PlyCount "39"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5
+2. d4 cxd4
+3. c3 d3
+4. Qxd3 Nc6
+5. Be3 Nf6
+6. Be2 e6
+7. f4 d5
+8. e5 Ne4
+9. Bf3 Qh4+
+10. g3 Qh6
+11. Bxe4 dxe4
+12. Qxe4 Ne7
+13. Bc5 a6
+14. Nd2 Rb8
+15. Nc4 Nf5
+16. Bxf8 Rxf8
+17. Nb6 Ke7
+18. Qb4+ Ke8
+19. O-O-O Ne7
+20. Qd6
+{Black Resigns} 1-0
