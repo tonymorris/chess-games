@@ -1,0 +1,58 @@
+[Event "Stuart Wilson Trophy 2015"]
+[Site "The Gap State High School, Queensland"]
+[Date "2015.07.10"]
+[Round "03"]
+[TimeControl "3600+10"]
+[White "Ryland, John"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "812?"]
+[BlackElo "1363"]
+[Opening "Sicilian"]
+[Variation "Lowenthal, 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5"]
+[Annotator "Morris, Tony"]
+[PlyCount "76"]
+[Result "0-1"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5
+2. d4 cxd4
+3. Nf3 Nc6
+4. Nxd4 e5
+5. Nxc6 bxc6
+6. Bc4 Nf6 
+7. Bg5 Qa5+
+8. Qd2 Bb4
+9. c3 Nxe4
+10. cxb4 Qb6
+11. Qe3 Qxb4+
+12. Nd2 Nxd2
+13. Qxe5+ Kf8
+14. Be7+ Qxe7
+15. Qxe7+ Kxe7
+16. Kxd2 d5
+17. Be2 Be6
+18. Rhe1 Kd6
+19. g4 g5
+20. h3 d4
+21. Ba6 Rab8
+22. b3 Rb6
+23. Bc4 Bxc4
+24. bxc4 c5
+25. Re2 Rb2+
+26. Kd3 Rxe2
+27. Kxe2 h5
+28. Rb1 hxg4
+29. hxg4 Kc6
+30. Kf3 Rh3+
+31. Ke4 Rc3
+32. Kf5 Rxc4
+33. Kxg5 d3
+34. f4 Rc2
+35. a4 c4
+36. Rd1 d2
+37. Kf6 c3
+38. Kxf7 Rc1
+{White Resigns} 0-1
