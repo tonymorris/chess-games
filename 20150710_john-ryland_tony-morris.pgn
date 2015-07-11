@@ -9,6 +9,7 @@
 [BlackCountry "AUS"]
 [WhiteElo "812?"]
 [BlackElo "1363"]
+[ECO "B32"]
 [Opening "Sicilian"]
 [Variation "Lowenthal, 1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5"]
 [Annotator "Morris, Tony"]
