@@ -1,0 +1,33 @@
+[Event "Queensland Reserves Chess Tournament"]
+[Site "St Joseph's College, Nudgee, Queensland"]
+[Date "2015.07.11"]
+[Round "03"]
+[TimeControl "3600+10"]
+[White "Morris, Adam"]
+[Black "Jule, Elena"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "Unrated"]
+[BlackElo "345"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defence"]
+[Variation "2.d4"]
+[Annotator "Morris, Tony"]
+[PlyCount "23"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 Nc6
+2. d4 e6
+3. Bd3 Nxd4
+4. Bc4 Bc5
+5. Be3 e5
+6. c3 Nc6
+7. Bxc5 d6
+8. b4 b6
+9. Be3 Nf6
+10. Na3 Nxe4
+11. Qd5 Bb7
+12. Qxf7#
+1-0
