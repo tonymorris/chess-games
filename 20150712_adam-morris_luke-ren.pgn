@@ -1,0 +1,93 @@
+[Event "Queensland Reserves Chess Tournament 2015"]
+[Site "St Joseph's College, Nudgee, Queensland"]
+[Date "2015.07.12"]
+[Round "07"]
+[TimeControl "3600+10"]
+[White "Morris, Adam"]
+[Black "Jule, Elena"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "Unrated"]
+[BlackElo "Unrated"]
+[ECO "C42"]
+[Opening "Russian-Three Knights Game"]
+[Variation "1.e4 e5"]
+[Annotator "Morris, Tony"]
+[PlyCount "143"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5
+2. Nf3 Nf6
+3. Nc3 Bc5
+4. Nxe5 Bd4
+5. Nf3 Ng4
+6. Nxd4 Ne5
+7. Bb5 c6
+8. Ba4 b5
+9. Bb3 c5
+10. Nf3 Nxf3+
+11. Qxf3 O-O
+12. Bd5 Nc6
+13. Nxb5 a6
+14. Nd6 Rb8
+15. Nxc8 Rxc8
+16. d3 Nd4
+17. Qd1 d6
+18. Bb7 Rc7
+19. Bxa6 Rc6
+20. Bc4 Ne6
+21. Bd5 Rb6
+22. Bxe6 fxe6
+23. O-O Rb7
+24. Qg4 Rff7
+25. Bg5 Qa8
+26. Qxe6 h6
+27. Be7 Rc7
+28. Qxd6 Rcxe7
+29. Qxc5 Rc7
+30. Qd6 Rxc2
+31. Rab1 Qa7
+32. Qa3 Rcxf2
+33. Qxa7 Rxf1+
+34. Rxf1 Rxa7
+35. Ra1 Rc7
+36. b4 Rc3
+37. Rd1 Rc2
+38. a4 Rb2
+39. b5 Ra2
+40. Rb1 Rxa4
+41. b6 Ra3
+42. b7 Rxd3
+43. b8=Q+ Kh7
+44. Qb3 Rxb3
+45. Rxb3 Kg6
+46. Re3 Kg5
+47. e5 Kf4
+48. Kf2 g5
+49. e6 g4
+50. h3 h5
+51. hxg4 hxg4
+52. e7 g3+
+53. Rxg3 Kf5
+54. e8=Q Kf4
+55. Qe5+ Kxe5
+56. Rg4 Kf5
+57. Ra4 Kg5
+58. Kf3 Kf5
+59. Ra5+ Kg6
+60. Kf4 Kh6
+61. Kg4 Kg6
+62. Ra6+ Kf7
+63. Kf5 Ke7
+64. Ke5 Kd7
+65. Rh6 Kc7
+66. Kd5 Kb7
+67. Kc5 Kb8
+68. Rh7 Kc8
+69. Kd6 Kb8
+70. Kc6 Ka8
+71. Kb6 Kb8
+72. Rh8#
+1-0
