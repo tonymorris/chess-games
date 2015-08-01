@@ -1,0 +1,22 @@
+[Event "Pelican Weekender"]
+[Site ""]
+[Date "2015.07.18"]
+[Round "?"]
+[White "Itsuki Oka"]
+[Black "Adam Morris"]
+[Result "0-1"]
+[BlackElo "UNR"]
+[ECO "D06"]
+[Opening "QGD"]
+[Time "19:33:51"]
+[Variation "2...Bf5 3.Nc3 e6"]
+[WhiteElo "143"]
+[TimeControl "60+15"]
+[Termination "normal"]
+[PlyCount "36"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. e3 Bb4 5. Bd2 Nf6 6. Qa4+ Nc6 7. cxd5 exd5
+8. Bb5 O-O 9. Bxc6 bxc6 10. Qxb4 Ne4 11. Nxe4 Bxe4 12. Nf3 Rb8 13. Qc3 Rb7
+14. Ne5 Qd6 15. Nxc6 Bxg2 16. Rg1 Qxh2 17. Ke2 Qh5+ 18. Kd3 Be4# 0-1
