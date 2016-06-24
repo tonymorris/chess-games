@@ -1,0 +1,25 @@
+[Event "Computer chess game"]
+[Site "WINDOWS-7-VBOX"]
+[Date "2016.05.06"]
+[Round "?"]
+[White "tmorris"]
+[Black "tmorris"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "A07"]
+[Opening "Reti Opening"]
+[Time "23:17:11"]
+[Variation "KIA, 2.g3 Nc6 3.Bg2 e5 4.d3 Nf6"]
+[WhiteElo "2400"]
+[TimeControl "300"]
+[Termination "unterminated"]
+[PlyCount "60"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. Nf3 d5 2. d3 Nc6 3. g3 e5 4. Bg2 Nf6 5. Bg5 Be7 6. O-O O-O 7. Nbd2 Be6
+8. Re1 h6 9. Bxf6 Bxf6 10. Rb1 Rb8 11. c4 dxc4 12. Nxc4 b5 13. Ncd2 Bxa2
+14. Rc1 Nb4 15. b3 Qe7 16. Ne4 Rfc8 17. Bh3 Rd8 18. Qd2 a5 19. Nxf6+ Qxf6
+20. Rxc7 e4 21. Nh4 exd3 22. e4 Qb6 23. Rc3 Rb7 24. Rec1 Rbb8 25. Nf5 a4
+26. bxa4 bxa4 27. Ne7+ Kh8 28. Nc6 Nxc6 29. Rxc6 Qb2 30. Rd1 a3 *
+
