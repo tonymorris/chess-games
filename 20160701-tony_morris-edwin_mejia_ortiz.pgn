@@ -1,0 +1,80 @@
+[Event "Flood Cup 2016"]
+[Site "The Gap State High School, Queensland"]
+[Date "2016.07.01"]
+[Round "04"]
+[TimeControl "3600+10"]
+[White "Morris, Tony"]
+[Black "Mejia, Edwin"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1392"]
+[BlackElo "?"]
+[ECO "D31"]
+[Opening "Semi-Slav"]
+[Variation "3.Nc3"]
+[Annotator "Morris, Tony"]
+[PlyCount "117"]
+[Result "1-0"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 d5
+2. c4 c6
+3. Nc3 e6
+4. Bf4 Bd6
+5. Bg3 Bxg3
+6. hxg3 h6
+7. e3 Nf6
+8. Nf3 Nbd7
+9. Qc2 b6
+10. cxd5 Nxd5
+11. Ne4 Qc7
+12. Rc1 Bb7
+13. Neg5 Rf8
+14. Ne4 Nb4
+15. Qb3 Nd5
+16. Bc4 Ne7
+17. Rh5 Nc8
+18. Bxe6 Qd8
+19. Bxd7+ Qxd7
+20. Rxh6 Qe7
+21. Rh4 Nd6
+22. Nxd6+ Qxd6
+23. Re4+ Kd8
+24. Re5 Kc7
+25. d5 Rac8
+26. dxc6 Kb8
+27. Qd5 Rxc6
+28. Qxd6+ Rxd6
+29. Ke2 Rd7
+30. Rc2 Rfd8
+31. Nh4 Ba6+
+32. Kf3 Bb7+
+33. Kg4 Bc8
+34. Kf3 Bb7+
+35. e4 Rd3+
+36. Kf4 f6
+37. Re7 g5+
+38. Kf5 gxh4
+39. Rcc7 Bc8+
+40. Kxf6 R8d7
+41. Rcxd7 Bxd7
+42. gxh4 Rd6+
+43. Ke5 Kc7
+44. h5 Kc6
+45. f3 Rh6
+46. g4 Rh8
+47. Rf7 Re8+
+48. Kf4 Be6
+49. Rf6 Kd7
+50. b3 Ke7
+51. g5 Rf8
+52. Rxf8 Kxf8
+53. Ke5 Bg8
+54. Kf6 a5
+55. g6 b5
+56. h6 a4
+57. h7 axb3
+58. g7+ Ke8
+59. hxg8=Q+
+{Black Resigns} 1-0
