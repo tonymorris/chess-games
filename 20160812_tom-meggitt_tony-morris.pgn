@@ -1,0 +1,58 @@
+[Event "Flood Cup 2016"]
+[Site "The Gap State High School, Queensland"]
+[Date "2016.08.12"]
+[Round "07"]
+[TimeControl "3600+10"]
+[White "Meggitt, Tom"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "?"]
+[BlackElo "1392"]
+[ECO "B33"]
+[Opening "Sicilian"]
+[Variation "Pelikan, Chelyabinsk, 9.Nd5 Be7, 11.c3 O-O 12.Nc2 Bg5"][Annotator "Morris, Tony"]
+[PlyCount "74"]
+[Result "0-1"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 c5
+2. Nf3 Nc6
+3. d4 cxd4
+4. Nxd4 e5
+5. Nb5 d6
+6. N1c3 a6
+7. Na3 Nf6
+8. Bg5 Be7
+9. Bxf6 Bxf6
+10. Nd5 b5
+11. c3 O-O
+12. Nc2 Bg5
+13. Nce3 Bxe3
+14. Nxe3 Ne7
+15. Qd3 Qd7
+16. Rd1 Rd8
+17. Nd5 Nxd5
+18. exd5 Qf5
+19. Be2 e4
+20. Qd4 Bb7
+21. O-O Rac8
+22. h3 Qg6
+23. Rfe1 Rc5
+24. c4 bxc4
+25. Bxc4 Rdc8
+26. Rxe4 f5
+27. Re7 Rxc4
+28. Qxc4 Rxc4
+29. Rxb7 Qf6
+30. Re1 Re4
+31. Rc1 Re7
+32. Rc8+ Kf7
+33. Rbb8 Re1+
+34. Kh2 Qe5+
+35. g3 Qxd5
+36. g4 Rh1+
+37. Kg3 Qd3+
+{White Resigns} 0-1
+
