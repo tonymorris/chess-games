@@ -11,7 +11,8 @@
 [BlackElo "1392"]
 [ECO "B33"]
 [Opening "Sicilian"]
-[Variation "Pelikan, Chelyabinsk, 9.Nd5 Be7, 11.c3 O-O 12.Nc2 Bg5"][Annotator "Morris, Tony"]
+[Variation "Pelikan, Chelyabinsk, 9.Nd5 Be7, 11.c3 O-O 12.Nc2 Bg5"]
+[Annotator "Morris, Tony"]
 [PlyCount "74"]
 [Result "0-1"]
 [WhiteType "human"]
@@ -55,4 +56,3 @@
 36. g4 Rh1+
 37. Kg3 Qd3+
 {White Resigns} 0-1
-
