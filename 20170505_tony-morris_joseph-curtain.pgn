@@ -1,0 +1,50 @@
+[Event "Flood Cup 2017"]
+[Site "The Gap State High School, Queensland"]
+[Date "2017.05.05"]
+[Round "06"]
+[TimeControl "4200+30"]
+[White "Morris, Tony"]
+[Black "Curtain, Joseph"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1392"]
+[BlackElo "1278"]
+[Annotator "Morris, Tony"]
+[PlyCount "59"]
+[Result "1-0"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin, Tartakower Gambit"]
+
+1. d4 d5
+2. c4 Nc6
+3. Nc3 e5
+4. e3 exd4
+5. exd4 Bb4
+6. a3 Bxc3+
+7. bxc3 Nge7
+8. Nf3 O-O
+9. Bd3 Ng6
+10. O-O Nce7
+11. Bg5 f6
+12. Bd2 Kh8
+13. cxd5 Nxd5
+14. Bxg6 hxg6
+15. c4 Ne7
+16. Re1 Nf5
+17. Bb4 Re8
+18. Qd3 Bd7
+19. g4 Nh6
+20. Nh4 Bxg4
+21. Rxe8+ Qxe8
+22. Re1 Qa4
+23. Qxg6 Bh3
+24. Bd2 Qd7
+25. Bxh6 gxh6
+26. Qxh6+ Kg8
+27. Qg6+ Kf8
+28. Qxf6+ Kg8
+29. Re3 Qg4+
+30. Rg3
+{Black Resigns} 1-0
+
