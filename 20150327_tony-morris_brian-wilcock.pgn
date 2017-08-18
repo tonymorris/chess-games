@@ -8,7 +8,7 @@
 [WhiteCountry "AUS"]
 [BlackCountry "AUS"]
 [WhiteElo "1314"]
-[WhiteElo "1312"]
+[BlackElo "1312"]
 [ECO "D06"]
 [Opening "QGD"]
 [Variation "Austrian Defence"]
@@ -41,4 +41,4 @@
 21. Rc7+ Ke8
 22. Re5+ Kf8
 23. Rxf7+
-{White Resigns} 1-0
+{Black Resigns} 1-0
