@@ -1,0 +1,32 @@
+[Event "Flood Cup"]
+[Site "The Gap State High School, Queensland"]
+[Date "2018.04.27"]
+[Round "03"]
+[TimeControl "3600+30"]
+[White "Laizans, Martin"]
+[Black "Pendrith, Mark"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "901"]
+[BlackElo "1604"]
+[Annotator "Morris, Tony"]
+[PlyCount "32"]
+[Result "0-1"]
+
+1. e4 d6
+2. d4 Nf6
+3. Nc3 Nbd7
+4. f4 e5
+5. dxe5 dxe5
+6. fxe5 Nxe5
+7. Qxd8+ Kxd8
+8. Bf4 Nfd7
+9. O-O-O Bd6
+10. Nh3 Ke7
+11. Nd5+ Kd8
+12. Nc3 Ke7
+13. Nd5+ Kd8
+14. Be2 c6
+15. Nc3 Kc7
+16. Ng5 Nd3+
+{White Resigns} 0-1
