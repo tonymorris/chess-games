@@ -11,7 +11,7 @@
 [WhiteElo "2419"]
 [BlackElo "1400"]
 [Annotator "Morris, Tony"]
-[PlyCount ""]
+[PlyCount "143"]
 [Result "1-0"]
 
 1. e4 c6
@@ -50,4 +50,40 @@
 34. Qe3 Bxe5
 35. fxe5 Ng5
 36. Rc1 Rb7
-37. Ng3 
+37. Ng3 Rd5
+38. Nf1 Rbd7
+39. Rcd1 Ra7
+40. Rc1 Rad7
+41. Rcd1 Rd8
+42. R3d2 R8d7
+43. Qd3 Qxd3+
+44. Rxd3 Ne4
+45. Ne3 Nf2
+46. Nxd5 exd5
+47. Kc2 Nxd1
+48. Rxd1 Kf8
+49. Kd3 Ke7
+50. Rf1 Ke6
+51. Ke3 Ra7
+52. Kf4 Ra8
+53. Kg3 Rf8
+54. Rf3 Ra8
+55. g5 hxg5
+56. h6 Rg8
+57. hxg7 Rxg7
+58. Rf6+ Kd7
+59. Kg4 a3
+60. bxa3 bxa3
+61. Rf3 Ke6
+62. Rxa3 f5+
+63. exf6 Kxf6
+64. Ra6 Rc7
+65. a4 Kg6
+66. a5 Rc8
+67. Rb6 Kf6
+68. a6 Ke6
+69. a7 Ra8
+70. Rxc6+ Kd7
+71. Ra6 Kc7
+72. Kxg5
+{Black resigns} 1-0
