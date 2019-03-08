@@ -1,0 +1,36 @@
+[Event "Flood Cup"]
+[Round "01"]
+[Site "The Gap State High School, Queensland"]
+[Date "2019.03.08"]
+[TimeControl "3600+10"]
+[White "Morris, Tony"]
+[Black "Scarf, Rex"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1569"]
+[BlackElo "1188"]
+[Annotator "Morris, Tony"]
+[PlyCount "39"]
+[Result "1-0"]
+
+1. d4 Nf6
+2. c4 d5
+3. Nc3 dxc4
+4. e4 e6
+5. Bg5 Be7
+6. Bxc4 O-O
+7. Nf3 c6
+8. a4 a5
+9. O-O b6
+10. Qe2 Ba6
+11. Rfd1 Bxc4
+12. Qxc4 Nfd7
+13. Bf4 Qc8
+14. Rac1 Na6
+15. d5 cxd5
+16. Qb5 Nac5
+17. exd5 exd5
+18. Nxd5 Bd8
+19. Bd6 Re8
+20. Bxc5
+{Black Resigns} 1-0
