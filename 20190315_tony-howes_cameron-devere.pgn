@@ -11,7 +11,7 @@
 [BlackElo "1586"]
 [Annotator "Morris, Tony"]
 [PlyCount "55"]
-[Result "1-0"]
+[Result "0-1"]
 
 1. d4 d5
 2. Nf3 Nf6
@@ -41,4 +41,4 @@
 26. Kc3 exd4+
 27. exd4 Rf3+
 28. Kc2
-{Black Resigns} 1-0
+{White Resigns} 0-1
