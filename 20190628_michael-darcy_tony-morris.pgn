@@ -1,0 +1,28 @@
+[Event "The Gap v Bullwinkle"]
+[Site "The Gap State High School, Queensland"]
+[Date "2019.06.28"]
+[TimeControl "3600+10"]
+[White "D'Arcy, Michael"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "1744"]
+[BlackElo "1589"]
+[Annotator "Morris, Tony"]
+[PlyCount "134"]
+[Result "1-0"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 g6 4. Bb5 Bg7
+5. O-O a6 6. Bxc6 bxc6 7. d3 d6 8. Be3 e5
+9. Nd2 Nf6 10. h3 O-O 11. f4 Nh5 12. f5 Ng3
+13. Rf3 Nxf5 14. exf5 Bxf5 15. Qf1 Qe7 16. Rxf5 gxf5
+17. Qxf5 d5 18. Bg5 Qe6 19. Qxe6 fxe6 20. Na4 Rab8
+21. Rf1 Rfe8 22. b3 e4 23. dxe4 c4 24. g3 cxb3
+25. axb3 h6 26. Bf6 Bf8 27. Kg2 c5 28. Nc3 d4
+29. Ne2 e5 30. Nc1 Re6 31. Nc4 Bg7 32. Bxg7 Kxg7
+33. Nd3 Rf6 34. Rxf6 Kxf6 35. Nxc5 Rc8 36. Nd7+ Ke6
+37. Ndxe5 a5 38. Kf2 Rc5 39. Nd3 Rc6 40. Ndb2 Rc5
+41. Ke2 Rc8 42. Kd3 Rf8 43. Nd2 Rf2 44. Nbc4 Rg2
+45. g4 Rg3+ 46. Kxd4 Rxh3 47. Ne3 Rh2 48. Ndc4 Rf2
+49. Nxa5 Rf7 50. Nac4 Rd7+ 51. Nd5 Rg7 52. Nce3 Rg5
+53. b4 Kd7 54. b5 Kc8 55. c4 Rg7 56. c5 {Black Resigns} 1-0
