@@ -1,0 +1,24 @@
+[Event "Stuart Wilson Trophy"]
+[Site "The Gap State High School, Queensland"]
+[Date "2019.07.19"]
+[TimeControl "3600+10"]
+[Black "Nothdurft, John"]
+[Black "Pendrith, Mark"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "916"]
+[BlackElo "1719"]
+[Annotator "Morris, Tony"]
+[PlyCount "78"]
+[Result "0-1"]
+
+1. f4 e6 2. Nf3 Bc5 3. d4 Bb6 4. e4 Nf6
+5. Bd3 Nc6 6. c3 Ne7 7. Nbd2 c5 8. e5 Nfd5
+9. Ne4 cxd4 10. Nd6+ Kf8 11. Ng5 Qc7 12. Ngxf7 Rg8
+13. Bxh7 dxc3 14. bxc3 Qxc3+ 15. Bd2 Qd4 16. Rf1 Ne3
+17. Bxe3 Qxe3+ 18. Qe2 Qc3+ 19. Qd2 Qxa1+ 20. Ke2 Qd4
+21. Bd3 Nf5 22. Rf3 Nxd6 23. Nxd6 Ke7 24. Qc1 Bc5
+25. Nb5 Qd5 26. Nc3 Qc6 27. Be4 Qb6 28. f5 Kd8
+29. Qg5+ Kc7 30. fxe6 dxe6 31. Rf7+ Bd7 32. Bh7 Rgf8
+33. Rxg7 Qb2+ 34. Kd3 Bb4 35. Nb5+ Kb6 36. Rxd7 Kxb5
+37. Rxb7+ Ka6 38. Rc7 Rad8+ 39. Kc4 Rd4#
