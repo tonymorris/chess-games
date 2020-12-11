@@ -1,0 +1,25 @@
+[Event "Allgero"]
+[Site "The Gap State High School, Queensland"]
+[Date "2020.11.06"]
+[TimeControl "3600+10"]
+[White "Warren, Elizabeth"]
+[Black "Morris, Tony"]
+[WhiteCountry "AUS"]
+[BlackCountry "AUS"]
+[WhiteElo "794"]
+[BlackElo "1556"]
+[Annotator "Morris, Tony"]
+[PlyCount "83"]
+[Result "0-1"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5
+5. f4 Nec6 6. Nf3 Bc5 7. Nc3 O-O 8. Bd2 Re8
+9. Qe2 d6 10. O-O-O a5 11. Be3 Bxe3+ 12. Qxe3 Bd7
+13. f5 Bxf5 14. Rd5 Bg6 15. h4 h6 16. h5 Bh7
+17. g4 f6 18. g5 fxg5 19. Nxg5 hxg5 20. Rxg5 Re5
+21. Rxe5 Nxe5 22. h6 g6 23. Bd3 Nbd7 24. Rf1 c6
+25. Na4 Qe7 26. Kd2 Rf8 27. Rxf8+ Qxf8 28. Qa7 Qxh6+
+29. Kc2 Nxd3 30. Kxd3 Ne5+ 31. Ke2 Qh5+ 32. Ke1 Qh4+
+33. Ke2 Qxe4+ 34. Kd1 Qd3+ 35. Ke1 Qb1+ 36. Kd2 Nxc4+
+37. Kc3 Qc1+ 38. Kb3 Nd2+ 39. Ka3 Nb1+ 40. Kb3 Qd1+
+41. Kc4 d5+ 42. Kc5 Qg1+ {White resigns} 0-1
